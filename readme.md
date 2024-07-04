@@ -1,7 +1,7 @@
 OpenCV tutorial
 ---
 
-Install and import of images
+Install openCV and import of images
 ---
 
 
