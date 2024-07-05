@@ -1,3 +1,9 @@
 import cv2
 
-img = cv2.imread('assets/flowers.jpg')
+img = cv2.imread('assets/flowers.jpg', -1)
+## img = cv2.resize(img, (1280, 720)) pixel argument
+img = cv2.resize(img, (0,0), fx=0.5, fy=0.5) ## multiple or fraction arguments for each axis
+
+cv2.imshow('Image', img)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
