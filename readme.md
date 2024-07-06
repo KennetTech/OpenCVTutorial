@@ -4,6 +4,12 @@ OpenCV tutorial
 Install openCV and import of images
 ---
 
+Image fundamentals and manipulation
+---
+
+Cameras and Video Capture
+---
+
 
 Source
 --- 
