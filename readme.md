@@ -10,6 +10,8 @@ Image fundamentals and manipulation
 Cameras and Video Capture
 ---
 
+Drawing (Lines, Images, Circles & Text)
+---
 
 Source
 --- 
